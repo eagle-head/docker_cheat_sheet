@@ -82,11 +82,11 @@ commands in reality!
     docker ps
     ```
 
-- **List** all **containers** - including **stopped** ones
+    - **List** all **containers** - including **stopped** ones
 
-  ```sh
-  -a
-  ```
+      ```sh
+      -a
+      ```
 
 - **List** all **locally stored images:**
 
